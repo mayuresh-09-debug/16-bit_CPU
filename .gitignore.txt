@@ -1,0 +1,11 @@
+# Block massive Vivado simulation and log files
+*.log
+*.jou
+*.str
+*.dir
+.Xil/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.cache/
